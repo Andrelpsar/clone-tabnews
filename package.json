@@ -1,0 +1,15 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews para fins de estudos relativos ao curso.dev do Filipe Deschamps.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
