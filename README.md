@@ -1,4 +1,5 @@
 # clone-tabnews
+
 Implementação do tabnews para fins de estudos relativos ao curso.dev do Filipe Deschamps.
 
 Este leia-me servirá como um diário de aprendizado, mais do que um manual do código.
@@ -15,7 +16,7 @@ Dia 3 28/06/2025
 Para este projeto, utilizaremos a lts/iron-> v20.19.2
 
         nvm ls
-        nvm install lts/iron 
+        nvm install lts/iron
 
 1.1.1 Para que a versão desejada continue mesmo quando fechar e abrir, vamos apontar o padrão (default) para a nova alias, que é o iron (neste caso)
 
@@ -25,7 +26,7 @@ Para este projeto, utilizaremos a lts/iron-> v20.19.2
 
 1.3 .nvmrc - nvm run commands: "rc (run commands) é convenção para indicar arquivos que contêm instruções que devem ser executadas no início do programa. Ao criar esse arquivo, pode ser verificado ao utilizar o comando nvm install que terá a indicação da intalação da versão que contém nele.
 
-2. Frameworks - Next.js e React.js
+2.  Frameworks - Next.js e React.js
 
         npm init - para fazer o package.json (mudar só a licença para MIT)
         npm install next@13.1.6 - aqui para instalar o next
@@ -36,7 +37,7 @@ As versões instaladas são propositalmente desatualizadas, para que em aulas fu
 
 dia 4 26/06/2025
 
-Esta parte começa com conceitos de protocolos da internet. Vai ser feito um servidor HTTP. 
+Esta parte começa com conceitos de protocolos da internet. Vai ser feito um servidor HTTP.
 
 1. levantando o servidor.
 
@@ -46,7 +47,3 @@ Esta parte começa com conceitos de protocolos da internet. Vai ser feito um ser
         npm run dev
 
 Obiter dictum: usar ctrl + l em vez de clear, porque aí este não é acessado com a seta pra cima
-
-
-
-    
